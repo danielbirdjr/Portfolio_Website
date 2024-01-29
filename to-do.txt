@@ -1,0 +1,7 @@
+Issues
+1. Fix Experince section auto scroll (done)
+2. Fix down arror auto scroll in project section (done)
+3. Make it so it looks good on a phone 
+
+Links & Photos
+1. 
